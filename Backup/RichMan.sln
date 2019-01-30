@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RichMan", "RichMan\RichMan.vcproj", "{682E1C92-5652-4432-B899-90A8E4AD0CFD}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{361B4AC2-6DF2-435C-8965-8D9F4FE4BC42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{682E1C92-5652-4432-B899-90A8E4AD0CFD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{682E1C92-5652-4432-B899-90A8E4AD0CFD}.Debug|Win32.Build.0 = Debug|Win32
+		{682E1C92-5652-4432-B899-90A8E4AD0CFD}.Release|Win32.ActiveCfg = Release|Win32
+		{682E1C92-5652-4432-B899-90A8E4AD0CFD}.Release|Win32.Build.0 = Release|Win32
+		{361B4AC2-6DF2-435C-8965-8D9F4FE4BC42}.Debug|Win32.ActiveCfg = Debug
+		{361B4AC2-6DF2-435C-8965-8D9F4FE4BC42}.Release|Win32.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

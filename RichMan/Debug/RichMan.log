@@ -1,0 +1,21 @@
+﻿cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  stdafx.cpp
+cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  Tool.cpp
+f:\richman\richman\tool.cpp(18): warning C4302: “<function-style-cast>”: 从“char *”到“TCHAR”截断
+  Role.cpp
+  RichManView.cpp
+  RichManDoc.cpp
+  RichMan.cpp
+  Player.cpp
+  MainFrm.cpp
+  House.cpp
+  GameMap.cpp
+  Game.cpp
+  DlgHouseNoneMaster.cpp
+  DlgGameChoose.cpp
+  Computer.cpp
+  ButtonClk.cpp
+  正在生成代码...
+ButtonClk.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+  RichMan.vcxproj -> F:\richman\Debug\RichMan.exe
